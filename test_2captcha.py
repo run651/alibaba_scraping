@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
-"""
-Test script to demonstrate 2Captcha integration with the enhanced web scraper
-Compatible with Python 3.13
-"""
+
 
 import sys
 import os
