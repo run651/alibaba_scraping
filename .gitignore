@@ -1,0 +1,13 @@
+/__pycache__/
+/build/
+/dist/
+/WebScraper.spec
+/WebScraper.spec.spec
+/WebScraper.spec.spec.spec
+/WebScraper.spec.spec.spec.spec
+/WebScraper.spec.spec.spec.spec.spec
+/WebScraper.spec.spec.spec.spec.spec.spec
+/WebScraper.spec.spec.spec.spec.spec.spec.spec
+/WebScraper.spec.spec.spec.spec.spec.spec.spec.spec
+/build
+/playwright-browsers
