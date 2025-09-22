@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-Test script to demonstrate the enhanced web scraper capabilities
-Compatible with Python 3.13
-"""
 
 import sys
 import os
